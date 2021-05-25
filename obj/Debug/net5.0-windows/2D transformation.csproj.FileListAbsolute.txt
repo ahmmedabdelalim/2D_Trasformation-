@@ -1,0 +1,19 @@
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.exe
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.deps.json
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.runtimeconfig.json
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.runtimeconfig.dev.json
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.dll
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\ref\2D transformation.dll
+E:\graphic project\2D transformation\bin\Debug\net5.0-windows\2D transformation.pdb
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.csprojAssemblyReference.cache
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\_2D_transformation.Form1.resources
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.csproj.GenerateResource.cache
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.GeneratedMSBuildEditorConfig.editorconfig
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.AssemblyInfoInputs.cache
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.AssemblyInfo.cs
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.csproj.CoreCompileInputs.cache
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.dll
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\ref\2D transformation.dll
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.pdb
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\2D transformation.genruntimeconfig.cache
+E:\graphic project\2D transformation\obj\Debug\net5.0-windows\_2D_transformation.Properties.Resources.resources
